@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/expense-calc-voice/static/css/main.6c04a35c.chunk.css",
+    "main.js": "/expense-calc-voice/static/js/main.66bd1a42.chunk.js",
+    "main.js.map": "/expense-calc-voice/static/js/main.66bd1a42.chunk.js.map",
+    "runtime-main.js": "/expense-calc-voice/static/js/runtime-main.de1468e3.js",
+    "runtime-main.js.map": "/expense-calc-voice/static/js/runtime-main.de1468e3.js.map",
+    "static/js/2.11f7f8ef.chunk.js": "/expense-calc-voice/static/js/2.11f7f8ef.chunk.js",
+    "static/js/2.11f7f8ef.chunk.js.map": "/expense-calc-voice/static/js/2.11f7f8ef.chunk.js.map",
+    "index.html": "/expense-calc-voice/index.html",
+    "static/css/main.6c04a35c.chunk.css.map": "/expense-calc-voice/static/css/main.6c04a35c.chunk.css.map",
+    "static/js/2.11f7f8ef.chunk.js.LICENSE.txt": "/expense-calc-voice/static/js/2.11f7f8ef.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/expense-calc-voice/static/media/money.9eedd35c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de1468e3.js",
+    "static/js/2.11f7f8ef.chunk.js",
+    "static/css/main.6c04a35c.chunk.css",
+    "static/js/main.66bd1a42.chunk.js"
+  ]
+}
